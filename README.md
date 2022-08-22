@@ -1,5 +1,5 @@
 ## Zar Atma Uygulaması
-https://user-images.githubusercontent.com/57098047/185983354-dd82759b-c103-4658-9933-6cd29430d7a6.mp4
+https://user-images.githubusercontent.com/57098047/185985188-9abec3d3-549c-495d-8276-99a61d0895fb.mp4
 
 ### Android View Binding
 ### Android Countdown Timer
