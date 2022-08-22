@@ -9,4 +9,5 @@ Yukarıda belirttiğim başlıkları proje içerisinde görebilirsiniz.
 
 # Namespace Nedir?
 Aynı amaca hizmet eden özellikleri, sınıfları ve fonksiyonları bir çatı altında toplarken, bu çatıya verdiğimiz isime isim alanı (namespace) denir.
-Bu karmaşıklığı önlemek için, benzer özellikte işleve sahip kod blokları, bir namespace altında toplanmış ve kullanılmak istenilen sınıfa ait namespace kod sayfasına eklendikten sonra kullanılabilir hale gelmiştir.
+Kod karmaşıklığı önlemek için, benzer özellikte işleve sahip kod blokları, bir namespace altında toplan ve kullanılmak istenilen sınıfa ait namespace kod sayfasına eklendikten sonra kullanılabilir hale gelmiştir. 
+Bu sayede Nesneye yönelik programlama adı altında kod tekrarından kaçıp sınıfların birbiri arasındaki bağı kurmaya 'namespace' adı altında bir çözüm bulmuşlardır.
