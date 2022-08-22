@@ -31,6 +31,7 @@ class MainActivity : AppCompatActivity() {
         imageArray.add(binding.imageView6)
 
 
+        // android countdown timer kullanımı
         object : CountDownTimer(3000, 1000) {
             override fun onTick(millisUntilFinished: Long) {
                 binding.button.text = "Başlamak İçin Bekle"
@@ -45,6 +46,7 @@ class MainActivity : AppCompatActivity() {
         }.start()
     }
 
+    // Önce bütün resimleri görünmez yapıyor, daha sonra random bir resmi görünür yapıyoruz.
     fun dicePut(view: View) {
 
         for (images in imageArray) {
@@ -55,6 +57,7 @@ class MainActivity : AppCompatActivity() {
         imageArray[randomIndex].visibility = View.VISIBLE
         println("deneme$randomIndex")
 
+        //Proje içerisinde kaç defa hangi zar geldiğini sayan algoritma
         when (randomIndex) {
             0 -> {
                 one++
