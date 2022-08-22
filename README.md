@@ -1,5 +1,3 @@
-# Bahadir-Eray
-
 ## Zar Atma Uygulaması
 
 ### Android View Binding
