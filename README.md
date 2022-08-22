@@ -1,5 +1,4 @@
 ## Zar Atma Uygulaması
-
 ### Android View Binding
 ### Android Countdown Timer
 
